@@ -8,8 +8,6 @@ namespace Carplar.Shop.EntityFramework
 
         public int ArticleId { get; set; }
 
-        public DateTime Created { get; set; }
-
         public DateTime ValidFrom { get; set; }
 
         public DateTime? ValidTo { get; set; }
