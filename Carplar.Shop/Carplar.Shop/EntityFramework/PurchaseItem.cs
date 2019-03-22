@@ -6,7 +6,7 @@
 
         public int ShopItemId { get; set; }
 
-        public virtual ShopItem Item { get; set; }
+        public virtual ShopItem ShopItem { get; set; }
 
         public decimal Quantity { get; set; }
 
