@@ -37,7 +37,7 @@ namespace Carplar.Shop.Diagnostics
             stringBuilder.AppendLine("-----------------------------");
             stringBuilder.AppendLine("<br />");
 
-            stringBuilder.AppendLine("GriffCraft Diagnostics Email");
+            stringBuilder.AppendLine("Carplar Diagnostics Email");
 
             AddBody(stringBuilder.ToString());
 
